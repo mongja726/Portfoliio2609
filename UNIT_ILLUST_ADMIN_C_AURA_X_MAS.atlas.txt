@@ -1,0 +1,13 @@
+UNIT_ILLUST_ADMIN_C_AURA_X_MAS.png
+size:2048,2048
+filter:Linear,Linear
+pma:true
+UNIT_ILLUST_ADMIN_C_AURA_X_MAS_BG
+bounds:0,0,2048,2048
+
+UNIT_ILLUST_ADMIN_C_AURA_X_MAS_2.png
+size:2048,1024
+filter:Linear,Linear
+pma:true
+UNIT_ILLUST_ADMIN_C_AURA_X_MAS
+bounds:0,0,2048,1024
